@@ -1,0 +1,27 @@
+{
+  "name": "firstapi",
+  "version": "1.0.0",
+  "description": "First api developed using express and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpunk/firstNodeApi.git"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "nodejs"
+  ],
+  "author": "Gustavo Alzamora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hpunk/firstNodeApi/issues"
+  },
+  "homepage": "https://github.com/hpunk/firstNodeApi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
